@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqOzEejyGkHtes4Q4ZVVFPLKCsrbFa7wRhi4W2Z3r46nOTKe3EbDLwJ/pibbqr7lSpbnTj5Ce81Xkiqv9jQl1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Working\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saraa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
